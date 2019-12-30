@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  Function.cpp
+  MNK.cpp
+c:\users\артём\desktop\полина\2 курс\числаки\lab\mnk\mnk\mnk.cpp(19): error C3861: initdata: идентификатор не найден
+c:\users\артём\desktop\полина\2 курс\числаки\lab\mnk\mnk\mnk.cpp(25): error C3861: sum: идентификатор не найден
+c:\users\артём\desktop\полина\2 курс\числаки\lab\mnk\mnk\mnk.cpp(29): error C3861: sumy: идентификатор не найден
+  Создание кода...
